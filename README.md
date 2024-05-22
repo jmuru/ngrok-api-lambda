@@ -2,6 +2,8 @@
 
 This repository provides the steps to build and package a Go application for deployment on AWS Lambda.
 
+Blog Post: [Setting Up an AWS Lambda Triggered by API Gateway to Send Emails via SES](https://www.mindofguru.com/code/aws/2024/05/21/aws-lambda-api-ses.html)
+
 ## Build and Package
 
 1. **Build the Go Application for Linux**:
